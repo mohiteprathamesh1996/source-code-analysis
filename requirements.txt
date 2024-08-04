@@ -1,0 +1,10 @@
+openai
+tiktoken 
+chromadb
+langchain
+langchain-community
+flask
+GitPython
+python-dotenv
+gunicorn
+-e .
